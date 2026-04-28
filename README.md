@@ -46,4 +46,4 @@ Both scripts have config values at the top of the file. Update `DIVINE_RATE` as 
 
 ## Rate Limiting
 
-Both scripts default to 10-15 seconds between searches. This is well within GGG's acceptable use — community tools like Awakened PoE Trade hit the same API much harder. Don't set the delay below 5 seconds.
+Both scripts default to 10-15 seconds between searches. This is well within GGG's acceptable use since community tools like Awakened PoE Trade hit the same API much harder. Don't set the delay below 5 seconds.
